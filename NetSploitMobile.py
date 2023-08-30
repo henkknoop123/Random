@@ -13,11 +13,11 @@ logo = """
 ╚═╝░░╚══╝╚══════╝░░░╚═╝░░░╚═════╝░╚═╝░░░░░╚══════╝░╚════╝░╚═╝░░░╚═╝░░░
 """
 os.system("mode con cols=92 lines=52")
-os.system("title " + "NetSploit || PR4NKST3R")
+os.system("title " + "NetSploit || Cornettoo")
 class Code:
    def __init__(self):
       print(f"{Col.dark_red}{logo}")
-      print(f"\t\t\t     #{Col.white} Coded by PR4NKST3R{Col.dark_red}--Discord")
+      print(f"\t\t\t     #{Col.white} Coded by Cornettoo{Col.dark_red}--Discord")
       print(f"\t\t\t     #{Col.white} Version:{Col.green} V1.5{Col.dark_red}")
       print(f"\t\t\t     #{Col.white} MAKE SURE TO{Col.green} FULL SCREEN")
       try:
@@ -121,6 +121,6 @@ class Code:
          input(f"{Col.white}[{Col.green}!{Col.white}]{Col.green} Discord Remote Login:{Col.white} Login To Any Discord Account And Bypassing Two Factor Authentication with Cookie Logging Method.")
    def eth(self):
        while True:
-         input(f"{Col.white}[{Col.green}!{Col.white}]{Col.white} Everything coded by:{Col.green} PR4NKST3R")
+         input(f"{Col.white}[{Col.green}!{Col.white}]{Col.white} Everything coded by:{Col.green} Cornettoo")
          
 Code()
